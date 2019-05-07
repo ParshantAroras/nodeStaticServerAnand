@@ -1,0 +1,9 @@
+cd project 
+
+ssh actnursesportal@52.34.207.5
+password : actnursesportal
+
+
+pm2 start server.js
+
+https://stagingsdei.com:4223/
